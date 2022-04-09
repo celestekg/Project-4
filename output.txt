@@ -1,0 +1,105 @@
+Initial name and weight of people who want to ride the elevator:
+-------------------
+NAME        WEIGHT
+-------------------
+Anne            30
+Bob            150
+Ralph          305
+Tim            225
+Barbara        135
+Jane           160
+Steve           80
+Tom            200
+Mike           165
+Shirley         90
+Pam            100
+Frank          120
+
+Total weight of people: 1760
+
+Name and weight of people who got on the elevator:
+-------------------
+NAME        WEIGHT
+-------------------
+Anne            30
+Bob            150
+Ralph          305
+Tim            225
+Barbara        135
+Jane           160
+Steve           80
+
+Total weight of people: 1085
+Number of people who got on the elevator: 7
+
+
+After rearranging the people in descending sequence by weight:
+-------------------
+NAME        WEIGHT
+-------------------
+Ralph          305
+Tim            225
+Tom            200
+Mike           165
+Jane           160
+Bob            150
+Barbara        135
+Frank          120
+Pam            100
+Shirley         90
+Steve           80
+Anne            30
+
+Total weight of people: 1760
+
+Name and weight of people who got on the elevator:
+-------------------
+NAME        WEIGHT
+-------------------
+Ralph          305
+Tim            225
+Tom            200
+Mike           165
+Jane           160
+
+Total weight of people: 1055
+Number of people who got on the elevator: 5
+
+
+After rearranging the people in ascending sequence by name:
+-------------------
+NAME        WEIGHT
+-------------------
+Anne            30
+Barbara        135
+Bob            150
+Frank          120
+Jane           160
+Mike           165
+Pam            100
+Ralph          305
+Shirley         90
+Steve           80
+Tim            225
+Tom            200
+
+Total weight of people: 1760
+
+Name and weight of people who got on the elevator:
+-------------------
+NAME        WEIGHT
+-------------------
+Anne            30
+Barbara        135
+Bob            150
+Frank          120
+Jane           160
+Mike           165
+Pam            100
+
+Total weight of people: 860
+Number of people who got on the elevator: 7
+
+
+Initial (before sorting) method allowed the most people to ride the elevator.
+

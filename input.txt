@@ -1,0 +1,12 @@
+Anne 30
+Bob 150
+Ralph 305
+Tim 225
+Barbara 135
+Jane 160
+Steve 80
+Tom 200
+Mike 165
+Shirley 90
+Pam 100
+Frank 120
